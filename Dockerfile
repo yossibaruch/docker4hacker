@@ -16,6 +16,7 @@ inetutils-ping \
 kmod \
 libcap* \
 man-db \
+metasploit-framework \
 minicom \
 nasm \
 net-tools \
