@@ -1,4 +1,5 @@
-FROM ubuntu:latest
+# From the Kali linux base image
+FROM kalilinux/kali-linux-docker
 MAINTAINER yossibaruch
 RUN apt-get update -y
 RUN apt-get install -y \
