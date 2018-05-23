@@ -1,7 +1,7 @@
 * conntrack
 [official website](http://conntrack-tools.netfilter.org/conntrack.html)
-* debconf-utils
 * exploitdb
+[searchsploit](https://www.exploit-db.com/searchsploit/)
 * exploitdb-bin-sploits
 * gdb
 * gobuster
